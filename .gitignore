@@ -4,3 +4,6 @@ New folder/
 del.py
 Nautical/
 Testing/
+build/
+dist/
+main.spec
